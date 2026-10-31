@@ -4,4 +4,4 @@ Notation-Vis
 Exploration using dancer.js
 
 
-[DEMO](http://jonathanhaggard.github.io/Notation-Vis/)
+[DEMO](https://julesdarling.github.io/Notation-Vis/)
